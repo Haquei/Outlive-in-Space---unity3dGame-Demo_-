@@ -3,11 +3,11 @@ Outlive in Space - unity3d Game(Demo) is a prototype where I added a teleportati
 
 check out Gameplay Here - https://youtu.be/zss5lslB0AQ
 
-![App Screenshot](images/1.jpg)
+![App Screenshot](images/1.PNG)
 
-![App Screenshot](images/2.jpg)
+![App Screenshot](images/2.PNG)
 
-![App Screenshot](images/3.jpg)
+![App Screenshot](images/3.PNG)
 
 
 
